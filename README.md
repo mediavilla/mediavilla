@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan
 - 👀 I’m interested in building digital products and services that make the world a better place.
 - 🌱 I’m forever learning Javascript and right now trying React and Next.js on Vercel.
-- 💞️ I can can get some of my ideas off the ground in 2022 I might open source them or open to them for others to contribute here.
+- 💞️ If I get some of my ideas off the ground in 2022 I might open source them or open to them for others to contribute here.
 - 📫 How to reach me:
   - @mediavilla on Github.
   - @JuanMediavilla on Twitter.
